@@ -76,7 +76,7 @@ html{
     justify-content: center;
     height: 60vh;
     gap:20px;
-    background-image: url('Hero image.png');
+    background-image: url('Hero-image.png');
     background-size: cover;
      background-position: center;
 }
@@ -404,7 +404,7 @@ ul{
     justify-content: center;
     height: 60vh;
     gap: 20px;
-    background-image: url('destination-background image.png');
+    background-image: url('destination-background-image.png');
     background-size: cover;
     background-position: center;
 }
@@ -614,7 +614,7 @@ ul{
     font-size: 14px;
 }
 .call-to-action{
-     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('cta\ image.avif');
+     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('cta-image.avif');
     height: 60vh;
     justify-content: center;
     display: flex;
@@ -777,7 +777,7 @@ ul{
 
 .trip-cta {
     /* Added a linear gradient overlay before the image URL */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('trip cta image.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('trip-cta-image.png');
     height: 60vh;
     display: flex;
     flex-direction: column; /* Ensures H2, H3, and Button stack vertically */
